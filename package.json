@@ -1,0 +1,16 @@
+{
+  "name": "codecept-puppeteer-gherkin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.5.11",
+    "puppeteer": "^21.7.0"
+  }
+}
